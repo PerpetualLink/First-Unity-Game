@@ -6,6 +6,7 @@ Final Project for a game design course taken in college. Developed in a team wit
 - The game features multiple side-scroller type levels with a player character moving along fighting enemies and avoiding enemy projectiles.
 - Assets for the Characters, Animations, Environment, and Enemies were all obtained through free assets off the unity store.
 - Original Assets: HUD items (Health Bars and back up health), Sounds for shooting, explosions, and the boss level music.
+- Version Control for the project was done through Unity's Built in Collaborate tool.
 
 
 I plan to make a video demo of the game and include it here in the near future.
